@@ -1,0 +1,18 @@
+a00="otazka"
+a01="prazdna mistnost"
+a02="programovaci uloha"
+a03="vchod"
+a04="otazka"
+
+a10="programovaci uloha"
+a11="prazdna mistnost"
+a12="programovaci uloha"
+a13="prekvapeni"
+a14="prazdna mistnost"
+
+a20="prazdna mistnost"
+a21="otazka"
+a22="vychod"
+a23="prazdna mistnost"
+a24="programovaci uloha"
+~                             
